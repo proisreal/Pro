@@ -1,0 +1,7 @@
+{
+  "name": "Atomic HUD",
+  "description": "An advanced chemical reaction balancer and periodic table explorer powered by Gemini AI, providing precise stoichiometry and interactive element properties.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
